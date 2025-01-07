@@ -1,0 +1,40 @@
+# System Overview
+
+
+CHAPTER ONE INTRODUCTION
+According to research, it was calculated that over 250,000 deaths occur per year due to medical errors in the US (Aldosari, 2017). It is often said that students are the future of the nation and as a result their well-being is pertinent to the success and development of the country. Schools being the second homes of these students play a major role in this. The presence of complete health records of the students can help in preventing the spread of diseases and improve the overall quality of students’ health (Peyman et al., 2016). Due to the advancements in technology and the digitalization of data, most hospitals have adopted the use of Electronic Medical Record (EMR) systems to improve the quality of the health care system. An Electronic Medical Record (EMR) is a collection of diagnoses, medications, treatment, test results and general medical history of patients (Phaneuf, 2020). Electronic Medical Record (EMR) systems have recently proven to be of immense service to healthcare providers by mitigating the stress involved in documentation and safe keeping of records. In a journal on implementation of EMRs for service delivery, Ajayi et al., stated that although some hospitals have implemented the EMR, it shows that the application is only for patient registrations and billings (Ajayi et al., 2021). During emergency cases when a referral is needed to transfer a patient to another hospital, these records are then copied out onto the referral letter and sent to the hospital. The process involved in the search and transfer of a patient’s record may prove cumbersome. It also the risk of exposure of sensitive information.
+In a health journal, it was stated the EMR system did not bridge the gap between different healthcare service providers leading to cumbersome repetitions by the patients at different healthcare facilities and increase in duplicate records (Chidinma & Bright, 2018).
+These challenges call for the need of a system with increased privacy and interoperability. According to (Dugar, 2021), Electronic Health Records (EHR) are basically EMRs but with the added advantages of being able to be accessed in real time and interoperability.
+PROBLEM STATEMENT
+Although the EMR system has been around for some time, its use in the school system is limited due to cost of implementation (Tran, 2011). Occasionally, there are severe cases requiring students to be rushed to a hospital for better treatment. In such cases, a referral letter is to be sent along containing the clinical data, medical history and initial treatment of the patient increasing the exposure of such student’s privacy. The location and transfer of such data from the schools’ medical records to the letter format can be cumbersome for the health personnel.
+HIMSS in 2013 defined interoperability in healthcare as “the ability of different information technology systems and software applications to communicate, exchange data, and use information that has been exchanged”. Therefore, the use of interoperable systems in health care helps in not only relieving the workload of the health care personnel, but also in improving the overall quality of health care delivery in schools.
+In a study of Electronic Health record, a 3-tier architecture was designed consisting of the foreground for users to manage their information and a background for the system administrators. This system, however, did not include other medical departments and therefore lacked the ability to communicate with other units (Qian Huang, 2011).
+This project is aimed at designing such a system that can promote communication between different units within a healthcare facility and between two or more facilities.
+AIM
+The aim of this project is to design and implement a cloud based EHR system.
+OBJECTIVES
+The objectives of this project are:
+To design and develop the Cloud-based Electronic Health Record (EHR) System.
+To implement the Cloud-based Electronic Health System.
+To evaluate the workability of the system.
+SIGNIFICANCE OF THE STUDY
+The importance of this project is stemmed from the benefits it will bring to the student, staff and hospital administrators all concerned with the quality of students’ overall health. It introduces a system of interoperability between health personnel in the various units of a school clinic. This system also improves communication between the patients (staff and students) and the health personnel in the clinics which will in turn increase the efficiency of the healthcare system.
+SCOPE OF THE STUDY
+This project is limited to the design of a Cloud-based Electronic Health Record (EHR) for use in school clinics. Bells University of Technology will be used as a case study for the purpose of completion of this project.
+JUSTIFICATION OF THE STUDY
+This project is related to the field of biomedical informatics in biomedical engineering which studies data gotten from patients to help clinicians, scientists and researchers improve the quality of health care. It relies on the use of artificial intelligence, software, and cloud computing to uncover disease trends, provide clinical insights and treatments all geared towards improving the quality of life. This project not only bridges the gap between two health care facilities but also increases the ease of communication between healthcare personnel and their patients.
+DEFINITION OF TERMS
+EMR: An Electronic Medical Record (EMR) is a digital version of a patients chart in hospitals and clinics.
+EHR: Electronic Health Record (HER) is a collection of patients’ medical history including diagnoses, medications, treatment plans, allergies, laboratory and test results. (Phaneuf, 2020)
+Cloud Computing: This is the on-demand availability of computer system resources especially data storage (cloud storage) and computing power without direct active management by users. (Wikipedia contributors, 2022)
+Interoperability: This is the ability of computer systems or software t exchange and make use of information.
+HIMSS: Healthcare Information and Management Systems Society is a nonprofit organization with the goal of promoting the best use of IT and management systems in the healthcare industry. (Holman, 2018)
+RESEARCH ELEMENTS
+The elements of this research work are as follows:
+Chapter One: This chapter contains the introductory aspect of the project, statement of the problem, aim, objectives and scope and justification of the dissertation.
+Chapter Two: Chapter two contains a detailed literature review of past work on health records and the different methods used in the design and building of the software system.
+Chapter Three: This chapter shows the materials used and the methods deployed in the development.
+Chapter Four: Chapter four dwells on the analyses of the results obtained from chapter three using Microsoft Excel and SPSS, tabulation of the results and discussions.
+Chapter Five: This chapter is the conclusion of the project, summary of findings and necessary recommendations.
+This chapter has introduced the concept of Electronic Health Records (EHR) as a replacement to the paper-based method of filling and storing patient data. Health records are essentially documents containing information about the patients, vital signs, health data, medical history, etc. it highlights the problem of Electronic Medical Records (EMR), the difference between EMRs and EHRs and the advantage of using EHRs. It further goes on to explain the concept of interoperability in relation to healthcare units or departments. Interoperability is basically the ability of computer systems or software to exchange and make use of information which consequently increases the communication between healthcare units thereby improving the speed and overall delivery of healthcare. The chapter discusses the overall aim of this project, its specific objectives, scope, and significance as it relates to Biomedical Engineering as a
+course.
