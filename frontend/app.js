@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = "<p>React app would mount here.</p>";
