@@ -23,7 +23,7 @@ This project is a cloud-based EHR system designed for school clinics. It aims to
 4. Run `npm start` to start the server.
 
 ## Developer
-- Ekanem Beauty Effiong, Bells University of Technology, Ota
+- Adeshola David
 
 ## License
 For educational purposes only.
